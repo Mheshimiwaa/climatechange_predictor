@@ -1,4 +1,4 @@
-# ClimateChangePredictor: AI for Climate Action (SDG 13)
+# ClimateChangePredictor: AI for Climate Action 
 
 ## The Problem
 Climate change remains one of humanity's most critical challenges, directly addressed by UN Sustainable Development Goal 13: Climate Action. With global CO2 emissions rising and climate impacts intensifying, there's an urgent need for predictive tools that help policymakers make data-driven decisions to combat environmental degradation.
